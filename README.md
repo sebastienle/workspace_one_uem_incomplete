@@ -2,7 +2,7 @@
 
 *IMPORTANT*: This code as-is is **NOT WORKING**. I am posting this as a reference so that hopefully others can benefit from it. 
 
-This was written to query the Workspace One UEM (WS1) APIs using Powershell against a cloud instance of WS1. 
+This was written to query the Workspace One UEM (WS1) aka Airwatch APIs using Powershell against a cloud instance of WS1. 
 
 I wrote this as a personal part-time hobby project to help me in a previous engagement. It once worked, but I had to clean it up before posting it here **AFTER** I lost access to that environment. So it has not been tested after those changes, therefore it is very likely broken now. 
 

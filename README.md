@@ -1,4 +1,4 @@
-# workspace_one_uem_incomplete
+# PowerShell Workspace One UEM
 
 *IMPORTANT*: This code as-is is **NOT WORKING**. I am posting this as a reference so that hopefully others can benefit from it. 
 
